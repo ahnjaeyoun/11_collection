@@ -408,16 +408,23 @@ public class StudentService {
 				flag = false;
 				
 			}
-
+			
 		}
-
-		if (flag) {
+		
+		if(flag) {
 			System.out.println("검색 결과가 없습니다.");
 		}
-
+		
+		
+		
 	}
-
-}
+		
+		
+		
+		
+		
+		
+	}
 	
 	
 		
